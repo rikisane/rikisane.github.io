@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/rasberrypipicowpictrue.jpg
+image: img/mikrotikimage.jpg
 title: "MikroTik Router"
 date: 2026-01-12
 published: true
