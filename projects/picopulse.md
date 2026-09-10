@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/rasberrypipicowpic.jpg
+image: img/rasberrypipicowpictrue.jpg
 title: "PicoPulse"
 date: 2025-05-16
 published: true
