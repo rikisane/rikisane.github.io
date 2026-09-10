@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/SIOPlogo.jpg
 title: "SIOP Data Automation"
 date: 2026-08-06
 published: true
