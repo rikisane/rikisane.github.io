@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/rasberrypipicowpic.jpg
 title: "PicoPulse"
 date: 2025-05-16
 published: true
@@ -11,12 +11,6 @@ labels:
   - Debugging
 summary: "Designed and constructed a wifi static / diagnostic tool utilizing the Rasberry Pi Pico W."
 ---
-
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
 
 After playing video games for most of my life, Wi-Fi-related issues have always been a frustrating problem for me. Because of this, I decided to create the Pico Pulse, a small device designed to help me visually monitor what is happening with my internet connection in real time.
 
