@@ -20,20 +20,24 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Languages & Frameworks",
+      "keywords": [ "C", "C++", "Python", "Micropython", "Java", "Typescript" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Toolsets & Operating Systems",
+      "keywords": [ "Ubuntu", "Git/GitHub", "VBA", "Power Query" ]
+    },
+    {
+      "name": "Technologies",
+      "keywords": [ "Retrieval-Augmented Generation (RAG)", "Data Processing" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Exngineering (expected Spring, 2027)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023-08-21",
       "endDate": "Present",
       "courses": [
       ]
@@ -41,69 +45,58 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Shipyard Infrastructure Optimization Program (PMO 555)",
+      "position": "Intern",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2026-06-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed automated data analysis and reporting tools using Excel VBA and Power Query, including a custom macro that parsed 1,000+ pages of PDF/Word documents to extract and format tabular data into editable spreadsheets",
+        "Performed comparative analysis across technical documents to identify and resolve discrepancies with contractors, ensuring version control and accuracy",
+        "Designed and implemented an AI-based tool to convert handwritten notes and meeting minutes into structured, searchable summaries for internal use""
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Naval Information Warfare Center (NIWC)",
+      "position": "Artificial Intelligence Intern",
+      "website": "",
+      "startDate": "2025-06-09",
+      "endDate": "2025-08-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Developed a working local Retrieval Augmented Generation model using Gemma 2B via LangChain",
+        "Achieved efficient data processing to handle large amounts of data at once",
+        "Continuously improved model to achieve 70-80% accuracy"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "YMCA of Honolulu - Mililani Branch",
+      "website": "https://www.ymcahonolulu.org/locations/mililani-west-oahu-y",
+      "position": "Volunteer",
+      "startDate": "2022-05-16",
+      "endDate": "2022-08-09",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
+        "Enhanced communication skills with staff members, parents, and kids",
+        "Built strong teamwork essentials, through collaborating with other volunteers and staff",
+        "Gained experience in conflict resolution and maintained a positive demeaner to ensure a safe and supportive environment"
+      ],
+  
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's List",
+      "date": "2023, 2025",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "An academic honor that recognizes undergraduate students who achieve a superior grade point average during a single semester."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Merit Scholarship",
+      "date": "2023-2026",
+      "awarder": "University of Hawaii",
+      "summary": "Maintained a 3.20 undergraduate cumulative GPA or higher Enroll and earn at least 12 credits per semester."
     }
   ],
   "references": [
