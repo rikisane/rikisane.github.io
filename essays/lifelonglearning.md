@@ -4,7 +4,7 @@ type: essay
 title: "Lifelong Learning"
 # All dates must be YYYY-MM-DD format!
 date: 2026-02-12
-published: true
+published: false
 labels:
   - Engineering
   - Lifelong Learning
