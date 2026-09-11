@@ -25,3 +25,5 @@ What I like most about this style of learning is that it actually forces me to p
 ## Not as Scary as It Sounds
 
 In short, I feel as if TypeScript has been a lot less intimidating than I originally thought. Through learning the language itself and practicing athletic software engineering, I think I found my weaknesses in my technical skills and have made time to actively practice them. I can already see improvements in my results and have become a more confident programmer. This has really taught me an important lesson: apparently, practice actually works, but unfortunately, you have to make time to do it.
+
+*AI Use: AI was used to help with grammatical errors as well as the overall flow of this essay. Ideas are all my own.*
