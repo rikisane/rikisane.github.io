@@ -10,46 +10,18 @@ labels:
   - Typescript Programming
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+## Scary?
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+After hearing that TypeScript was going to be used in one of my software engineering classes, I was definitely a bit nervous. For starters, I had never heard of this language before, and I was worried that the syntax and its structure would be very difficult strictly because of that. However, after coding a few programs and diving a bit deeper than the name itself, I have found that it is pretty straightforward! It seems to be less complex than, say, Java or C/C++, and things like types, functions, and arrays exist, which I already have under my belt.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+One thing I especially like about TypeScript is how useful it can be in software engineering. Being able to define types makes it a lot easier to catch mistakes in the long run. This becomes extremely valuable in projects of much larger scales with many different people working on the same codebase. Though having these extra rules does seem tedious at first, it definitely makes sense why they are there and can make the maintenance and reliability of code more efficient.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+## Learning to Think Faster
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+When you think of athleticism, you think of someone who actively works out consistently. When you think of athletic software engineering, it really is the same thing, just a different font. Experiencing this style of learning has been a huge step for me. The practice WODs have definitely been the most challenging part, as I have never had to solve a specific problem in a short window of time. For the most part, coding has been something I like to take my time on so that I can fully understand the problem and get my logic correct, but doing it under a time constraint is another type of beast. However, in an actual engineering job, I can imagine that time is strict and deadlines exist, meaning I may not have all the time in the world to code at my leisurely pace. 
 
-Here's what I think: the difficult things will always be difficult.
+What I like most about this style of learning is that it actually forces me to program on a regular basis and actively learn to prepare for the next quiz. To be honest, my life is pretty busy, and it has been hard for me in the past to work toward my goal of practicing coding in my free time. As much as it pains me, having these WODs has not only made me actively practice coding, but also manage my time better so I have time for practice.
 
-## In the context of programming
+## Not as Scary as It Sounds
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+In short, I feel as if TypeScript has been a lot less intimidating than I originally thought. Through learning the language itself and practicing athletic software engineering, I think I found my weaknesses in my technical skills and have made time to actively practice them. I can already see improvements in my results and have become a more confident programmer. This has really taught me an important lesson: apparently, practice actually works, but unfortunately, you have to make time to do it.
