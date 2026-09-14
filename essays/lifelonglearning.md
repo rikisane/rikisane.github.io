@@ -13,7 +13,7 @@ labels:
 
 ## Lifelong Learning: What exactly is it?
 
-Lifelong learning is any learning that pertains to improving your knowledge, skills, and competences, within one’s personal and professional lives [1]. It is generally voluntary, and involves self-motivation, extending beyond traditional education in order to enhance skills and satisfy one’s personal fulfillment . This is a crucial habit to maintain throughout a career, as it expands experiences, strengthens problem solving skills, forms new connections, keeps up with the curve, and allows an individual to continuously grow throughout their career. 
+Lifelong learning is any learning that pertains to improving your knowledge, skills, and competences, within one’s personal and professional lives [1]. It is generally voluntary, and involves self-motivation, extending beyond traditional education in order to enhance skills and satisfy one’s personal fulfillment . This is a crucial habit to maintain throughout a career, as it expands experiences, strengthens problem solving skills, forms new connections, keeps up with the curve, and allows an individual to continuously grow throughout their entire career. 
 
 
 ## Pursuing Further Nontraditional Education
