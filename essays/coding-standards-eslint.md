@@ -26,7 +26,7 @@ Catching minor errors, such as missing packages or incorrect variable types, has
 Looking at the bigger picture, having cleaner code can make it easier for me to understand when I come back to it later. It can also make my code easier to share with teammates, reviewers, or leadership. In a multi-scale project, other people may have to understand, edit, or build on top of what I wrote, so keeping everything consistent becomes much more important. I also agree that coding standards can help someone learn a programming language because seeing the same ESLint errors repeatedly has taught me what TypeScript expects and helped me avoid making the same mistakes again. I now find myself thinking ahead to prevent these errors instead of only doing what is necessary to finish the assignment.
 
 
-## Added to my bag
+## Added To My Bag
 
 Through struggles and hardships, I have come to the conclusion that I should not judge a book by its cover. I think that, although it has been painful, ESLint has been extremely useful in helping me pay attention to details that I might otherwise ignore. In the long run, I believe that this will help me develop better habits and write code that is easier for both me and others to understand.
 
